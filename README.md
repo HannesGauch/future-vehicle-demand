@@ -6,7 +6,8 @@ It has three subtools:
 
 The tool can make predictions such as these:
 
-![Screenshot 2024-03-26 at 18 55 26](https://github.com/HannesGauch/future-vehicle-demand/assets/51442929/24bb327a-8257-4e78-953b-cea12066ad0b)
+![Screenshot 2024-03-26 at 18 58 49](https://github.com/HannesGauch/future-vehicle-demand/assets/51442929/e0e6366a-844c-4a34-b9a2-f01fca3b2c00)
+
 
 These show median prediction, interquartile range and 95% prediction intervals.
 
