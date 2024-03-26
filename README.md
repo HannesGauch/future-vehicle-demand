@@ -1,3 +1,4 @@
+## Future vehicle demand model
 This repository contains tools to model future vehicle stocks and flows.
 It has three subtools:
 1) Data handling and consolidation for past vehicle ownership, gdp, population, population density, urban percentage, urban population density.
@@ -11,8 +12,9 @@ The tool can make predictions such as these:
 
 These show median prediction, interquartile range and 95% prediction intervals.
 
+## Getting started
 To get started run the script in Tests/vehicle_stock_model_test.ipynb.
 
-Acknowledgements
+## Acknowledgements
 
 This material has been produced under the Climate Compatible Growth programme, which is funded by UK aid from the UK government, and Chatham House. However, the views expressed herein do not necessarily reflect the UK government's official policies.
